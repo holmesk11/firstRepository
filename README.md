@@ -1,3 +1,3 @@
 # firstRepository
 
-** I have configured git **
+**I have configured git**
