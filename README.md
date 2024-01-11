@@ -5,3 +5,4 @@
 
 
 ## I created a new branch named bugfix-123
+## I switched to new branch bugfix-123
